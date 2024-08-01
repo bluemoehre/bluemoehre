@@ -1,16 +1,13 @@
-## Hi there 👋
+## That's me 👋😀
 
-<!--
-**bluemoehre/bluemoehre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grew up in the analog era. My first mobile was a Nokia 3310. Swapped floppy disks between locations of _Indiana Jones: Fate of Atlantis._
 
-Here are some ideas to get you started:
+**I love tech, talking robots & computers and top-notch user interfaces.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Started my career in the broadcast sector, working on well-known TV productions. Launched one of the first online studios, pioneering social media production, while simultaneously developing first-generation TV apps with Philips (HbbTV).
+
+Over time, I have built CMS for startups and renowned media companies. \
+Specialized in UI/UX & architecture for international corporations and the finance sector.
+
+Currently working with AI, learning Spanish and automating my smart home. \
+(Sometimes I’ll also fly an A320 from _HAM_ to _PMI_.)
